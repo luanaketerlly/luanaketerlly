@@ -2,7 +2,8 @@
 
 <!--
 **luanaketerlly/luanaketerlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---Atualmente estou estudando:
+-->
+Atualmente estou estudando:
 Análise e desenvolvimento de sistemas = Trilhando carreira para Fullstack 
 
 <Div>
@@ -11,4 +12,4 @@ Análise e desenvolvimento de sistemas = Trilhando carreira para Fullstack
  
   </Div>
 
--->
+
