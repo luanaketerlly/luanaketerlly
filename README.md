@@ -10,6 +10,7 @@ Análise e desenvolvimento de sistemas = Trilhando carreira para Fullstack
 
  <a href="https://www.linkedin.com/in/luana-keterlly-3b4b1a1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  <a href="https://instagram.com/luanaketerlly" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </Div>
 
 
